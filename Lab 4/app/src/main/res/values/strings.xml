@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Registro Pro</string>
+    <string name="start">Iniciar</string>
+    <string name="about">Acerca de</string>
+    <string name="home">Inicio</string>
+    <string name="confirm">Confirmar</string>
+    <string name="dont">Limpiar</string>
+    <string name="restart">Reiniciar</string>
+    <string name="viewGuests">Todos los Invitados</string>
+    <string name="invited">Invitados: </string>
+    <string name="registered">Registrados: </string>
+    <string name="register">Registro</string>
+    <string name="info">Registro de invitados \n \n \n Hecho por luisperezaju@gmail.com</string>
+    <string name="share">Compartir</string>
+    <string name="successful_share">De %1$d invitados, %2$d fueron registrados.</string>
+    <string name="name">Registro Pro</string>
+    <string name="zvent_email">luisperezaju@gmail.com</string>
+</resources>
